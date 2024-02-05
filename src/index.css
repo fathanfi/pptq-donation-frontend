@@ -1,0 +1,32 @@
+/*! @import */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mk-stand-with-palestine {
+	margin-top: 1em;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+.mk-social-media {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 1em;
+}
+
+.mk-copyright {
+
+}
+
+.mk-body {
+	background-color: #f7f7f7;
+}
+.mk-header {
+	background-color: transparent;
+}
+
+.container {
+	background-color: white;
+}
